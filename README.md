@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Suliman&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Suliman Hakimi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
@@ -30,4 +31,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanHakimi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Suliman&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
