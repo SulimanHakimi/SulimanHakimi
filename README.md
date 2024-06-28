@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Suliman&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Suliman Hakimi</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan</h3>
+<h3 align="center">A Passionate Full Stack Developer From Afghanistan</h3>
 
 - 🌱 I’m currently learning **Node Js**
 
