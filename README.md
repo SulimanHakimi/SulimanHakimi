@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suliman Hakimi</h1>
 <h3 align="center">A Passionate Full Stack Developer From Afghanistan</h3>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **NEXT Js**
 
 - 👯 I’m looking to collaborate on **React Js**
 
